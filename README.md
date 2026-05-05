@@ -7,6 +7,7 @@ arbitrary code execution when opened in Claude Code, without any user interactio
 beyond cloning the repo and running `claude` or `claude -p`.
 
 This vulnerability requires the project is cloned into a directory trusted by users. This was rejected by the Anthropic Bug Bounty Program.
+<img src="ClaudeCodeRCE.gif">
 
 ## How It Works
 
